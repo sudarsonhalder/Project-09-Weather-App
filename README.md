@@ -6,7 +6,6 @@ Expense Calculator
 * [Screenshots](#screenshots)
 * [Tech Stack](#tech-stack)
 * [Setup](#setup)
-* [Features](#features)
 
 ## General info
 This project is built using React JS.  
