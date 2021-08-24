@@ -110,20 +110,3 @@ if(city&&country)   {
 
 
 export default App;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
